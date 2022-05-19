@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**jgmh99/jgmh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요 정보통신학부 3학년 제갈민혁 입니다!👋
+* * *
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
