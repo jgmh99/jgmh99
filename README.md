@@ -17,7 +17,6 @@
     국군지휘통신사령부-Cyber Network Operation Center B1(상황반)(20.02.01 ~ 21.04.17)</br> 
    (재)서울의과학연구소 정보시스템부(22.01.03 ~ 22.02.27)</br>
 ### What I Like
-- My Girl Friend
 - Game
 - Drama
 * * *
