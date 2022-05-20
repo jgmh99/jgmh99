@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6699FF&height=145&section=header&text=Jegal%20MinHyuk&fontSize=35&&fontColor=FFFFFF)
-## Hola! I'm Jegal MinHyuk👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jooa12342@gmail.com)
-
+## Hola! I'm Jegal MinHyuk👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jooa12342@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-D14836?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jgmh__99)
 ### Who Am I
 - Attending Semyung University
 - I'm studying 
