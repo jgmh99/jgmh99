@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeauto&height=120&section=header&text=Jegal%20MinHyuk&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6699FF&height=145&section=header&text=Jegal%20MinHyuk&fontSize=35&&fontColor=FFFFFF)
 ## Hola! I'm Jegal MinHyuk👋 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jooa12342@gmail.com)
 
 ### Who Am I
