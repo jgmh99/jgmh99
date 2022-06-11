@@ -13,8 +13,8 @@
 - My hometown is Yong-in, Gyeonggi-do in Korea
 ### Experience
 - Working at </br>
-    국군지휘통신사령부-Cyber Network Operation Center B1(상황반)(20.02.01 ~ 21.04.17)</br> 
-   (재)서울의과학연구소 정보시스템부(22.01.03 ~ 22.02.27)</br>
+   -군지휘통신사령부-Cyber Network Operation Center B1(상황반)(20.02.01 ~ 21.04.17)</br> 
+   -(재)서울의과학연구소 정보시스템부(22.01.03 ~ 22.02.27)
 ### What I Like
 - Game
 - Drama
@@ -23,7 +23,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jgmh99" height="120">
 ###### My Resume : <https://jgmh99.github.io/resume/>
 
-<!-- 아래 내용 안보이게 하는 거임 ㅇㅇ
+<!-- 주석처리
 
 ☑️ 
 Here are some ideas to get you started:
