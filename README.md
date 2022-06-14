@@ -2,7 +2,7 @@
 ## Hola! I'm Jegal MinHyuk👋 </br> 
 ### How to contact me! [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jooa12342@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=Instagram&logoColor=Gray)](https://www.instagram.com/jgmh__99)
 - What i should study 
-<img src="https://img.shields.io/badge/Cisco-3776AB?style=for-the-badge&logo=Cisco&logoColor=white"><a>
+<img src="https://img.shields.io/badge/CCNA-3776AB?style=flat-square&logo=Cisco&logoColor=white"><a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
